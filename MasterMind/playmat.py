@@ -13,6 +13,7 @@ def congrats(root=None,name=""):
     Label(root2,image=Image).grid(row=0,column=0)
     Label(root2,text=name,font=('monotype corsiva',50,"italic")).grid(row=1,column=0)
     Label(root2,text="You have successfully defeated me\n in the game of mastermind",font=('monotype corsiva',25,"italic")).grid(row=2,column=0)
+    root2.after(5000, lambda: root2.destroy())
     root2.mainloop()
 
 
