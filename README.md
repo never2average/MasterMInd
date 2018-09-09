@@ -5,7 +5,7 @@ A very simple game to build and run.At this point,it lacks a standalone executab
 Requirement:
 1.python3
 
-Steps:
-1.download as a zip file
-2. extract from zip
-3.double-click __init__.py to play game
+Steps:<br>
+*download as a zip file
+*extract from zip
+*double-click __init__.py to play game
