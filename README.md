@@ -1,8 +1,7 @@
 # MasterMind
+This is my version of the classic board game mastermind.
 
-A very simple game to build and run.At this point,it lacks a standalone executable but still very easy to play.
-
-Requirements:<br>
+## Requirements:<br>
 * Python 3 or above
 
 ## How to Play:<br>
