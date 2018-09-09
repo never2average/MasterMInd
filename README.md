@@ -5,7 +5,11 @@ A very simple game to build and run.At this point,it lacks a standalone executab
 Requirements:<br>
 * Python 3 or above
 
-Steps:<br>
-* Download this folder as a zip file
-* extract from zip
-* double-click __init__.py to play game
+## How to Play:<br>
+
+### Open terminal on your PC and type in the following commands:<br> 
+* git clone https://github.com/never2average/MasterMind.git
+* cd MasterMind/MasterMind
+* python3 __init__.py
+
+### Enjoy the game!!
