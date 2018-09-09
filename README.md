@@ -6,6 +6,6 @@ Requirement:
 1.python3
 
 Steps:<br>
-*download as a zip file
-*extract from zip
-*double-click __init__.py to play game
+* download as a zip file
+* extract from zip
+* double-click __init__.py to play game
