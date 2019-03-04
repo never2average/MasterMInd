@@ -12,9 +12,11 @@ The game is played using:
 
 #### Pictures:
 
-![](https://ibb.co/R0VGPtK)
-![](https://ibb.co/3cFgR4f)
-![](https://ibb.co/ZTSpG9d)
+![alt text](https://raw.githubusercontent.com/never2average/MasterMind/master/Screenshots/Screenshot%20at%202019-03-04%2010-11-46.png)
+
+![alt text](https://raw.githubusercontent.com/never2average/MasterMind/master/Screenshots/Screenshot%20at%202019-03-04%2010-48-48.png)
+
+![alt text](https://raw.githubusercontent.com/never2average/MasterMind/master/Screenshots/Screenshot%20at%202019-03-04%2010-54-29.png)
 
 #### Requirements:
 Python 3
