@@ -4,6 +4,7 @@ __version__="1.0.0"
 __all__=["create_gui","get_pins","create_game",
          "play_game","advanced_uix","playmat","statsmat"]
 
+
 def get_pins(guess,answer):
     import get_pins
     """
@@ -11,6 +12,7 @@ def get_pins(guess,answer):
     a particular guess should be awarded  
     """
     return get_pins.get_pins(guess,answer)
+
 
 def create_game():
     import create_game
@@ -20,21 +22,25 @@ def create_game():
     """
     return create_game.create_game()
 
+
 def advanced_uix():
     import advanced_uix
     """
     This particular function is present to generate specific ui elements
     to develop gui more easily
     """
+
 def playmat():
     import playmat
     """This particular function will be able to create the playmat that shows to the user their
     previous 5 guesses along with the pins allotted for each guess"""
     
+
 def statsmat():
     import statsmat
     """This function will be able to create the statsmat that handles all the statistical parts
     of the game such as keeping count of tries remaining,player name etc."""
+
 
 def create_gui():
     import create_gui
@@ -43,6 +49,8 @@ def create_gui():
     entire mastermind game using the Tkinter library. 
     """
     create_gui.create_gui()    
+
+
 def play_game():
     import play_game
     """
@@ -52,4 +60,7 @@ def play_game():
     """
     game=play_game.playgame()
     game.actual_game()
-play_game()
+    
+    
+if __name__=="__main__":
+    play_game()

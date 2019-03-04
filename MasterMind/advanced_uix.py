@@ -25,7 +25,7 @@ class Extras:
         Label(self.root,height=1,width=15,text="PLAYER NAME",fg="blue"
                ,font=('Copperplate Gothic Bold',20)).grid(row=0,column=0)
 
-        Label(self.root,height=1,width=15,text="GAMES PLAYED",fg="blue"
+        Label(self.root,height=1,width=15,text="TURNS TAKEN",fg="blue"
                 ,font=('Copperplate Gothic Bold',20)).grid(row=0,column=1)
 
         for i in range(n):

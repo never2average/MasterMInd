@@ -11,7 +11,7 @@ class create_gui:
         
     def integrate(self):
         self.main_screen=Tk()
-        self.main_screen.state("zoomed")
+        self.main_screen.attributes("-fullscreen", True)
         self.main_screen.configure(background='white')
         statsmat.statsmat(self.main_screen,self.name,self.no_of_tries,
                           self.answer,self.row_matrix,self.difficulty)
