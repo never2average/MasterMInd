@@ -6,11 +6,13 @@ This is my implementation of the classic board game Mastermind.
 
 ## How to Play:<br>
 
-### Open terminal on your PC and type in the following commands:<br> 
-* git clone https://github.com/never2average/MasterMind.git
-* cd MasterMind/MasterMind
-* python3 __init__.py
+### Open terminal on your PC and type in the following commands:
 
+```bash
+git clone https://github.com/never2average/MasterMind.git
+cd MasterMind/MasterMind
+python3 __init__.py
+```
 ### Enjoy the game!!
 
 ## TODO:
